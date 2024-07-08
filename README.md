@@ -5,3 +5,5 @@ Wallets are :
 2. INFINITY IDENTITY(ICP)
 3. TORUS
 4. GATEWEB3
+5. NUFI
+6. 
