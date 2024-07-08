@@ -3,4 +3,4 @@ A web3 app which have wallets integration and crypto selling items and chat app 
 Wallets are :
 1. METAMASK
 2. INFINITY IDENTITY(ICP)
-3. 
+3. TORUS
